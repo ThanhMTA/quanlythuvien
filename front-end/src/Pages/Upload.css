@@ -1,0 +1,13 @@
+.Upload {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+.Upload img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }

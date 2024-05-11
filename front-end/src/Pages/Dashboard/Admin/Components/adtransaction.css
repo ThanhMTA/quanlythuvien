@@ -1,0 +1,21 @@
+.admindashboard-table {
+    width: 10%; /* Thiết lập bảng chiếm toàn bộ chiều rộng của phần tử chứa nó */
+    border-collapse: collapse; /* Loại bỏ khoảng trống giữa các ô */
+  }
+  
+  .admindashboard-table th,
+  .admindashboard-table td {
+    padding: 8px; /* Thiết lập khoảng cách giữa nội dung và biên của mỗi ô */
+    border: 1px solid #ddd; /* Thiết lập đường viền cho mỗi ô */
+  }
+  
+  .admindashboard-table th {
+    background-color: #f2f2f2; /* Màu nền cho các ô tiêu đề */
+    text-align: left; /* Căn lề văn bản của các ô tiêu đề */
+  }
+  
+  /* CSS để thay đổi kích thước của bảng */
+  .admindashboard-table {
+    width: 60%; /* Đổi kích thước bảng thành 80% của phần tử chứa nó */
+  }
+  
